@@ -1,5 +1,7 @@
 # Visual Polution
-<img src="https://github.com/kamel-yamani/visual-polution/blob/main/rop.png" alt="VisualPolution" width="500" height="500">
+<div style="text-align: center;">
+  <img src="https://github.com/kamel-yamani/visual-polution/blob/main/rop.png" alt="VisualPolution" width="500" height="500">
+</div>
 
 The goal of this project is to develop a visual pollution detection and classification system. The system is trained on the provided dataset of images of various forms of pollution (e.g. garbage, graffiti etc). The custom dataset is used to fine-tune a pre-trained YOLOv5 model, which is a state-of-the-art object detection model, to improve its accuracy in detecting and classifying different forms of pollution.
 
